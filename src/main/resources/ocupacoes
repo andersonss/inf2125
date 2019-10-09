@@ -4,8 +4,8 @@ Número de Hóspedes:
 Data de Entrada: data atual
 Data Prevista de Saída: Data Atual + dois dias
 
-Código do Cliente: 103
-Número do Quarto: 10
-Data de Entrada: data atual
+Código do Cliente: 101
+Número do Quarto: 4
+Data de Entrada: data atual ; um dia
 Prevista de Saída: data atual + tres dias
 Número de Hóspedes: 4
